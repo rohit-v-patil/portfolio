@@ -398,3 +398,12 @@ nav{
 }
 
 
+/* footer */
+.copyright{
+    width: 100%;
+    text-align: center;
+    font-family: poppins;
+    background-color: #161616;
+    padding: 1.5vh 9vh;;
+    position: relative;
+}
